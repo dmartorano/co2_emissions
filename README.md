@@ -12,8 +12,13 @@ Ben files
 Project_5_Modeling_Dom.ipynb
 Daniel files
 ### `Visualizations_Folder`
-Visualizations ben file
-Visualizations Presentation files
+- Project_5_Visuals.ipynb
+- co2_dom.png
+- coal_dom.png
+- natural_gas.png
+- nuclear_dom.png
+- petroleum_dom.png
+- renewable_dom.png
 ### `Powerpoint_Presentation`
 
 ## General 
@@ -43,6 +48,18 @@ Communities across the United States are facing the dangers of climate change an
 - Project_5_Modeling_Dom - Utilized clean national average data to generate EDA graphs for all variables and create a multivariate time series model. Multivariate model found that, after a small increase to CO2 emissions from their COVID era low, CO2 emissions are forecasted to continue in a downward trend based on energy consumption levels.
 
 ### `Visualizations_Folder`
+
+- Project_5_Visuals.ipynb: Visuals from `Project_5_EDA_ben.ipynb` datasets (initial prior to further data collection. Purpose of this file is to gain deeper insights into multiple pollution index metrics as well as energy source trends from States and at a national level from the 21st century only. Viewed natural disaster and anthropologic crisis event and other trends in data emblematic of the positive and negative correlation amongst variables in the study that necessitated multi-variable analysis.
+
+Following were for use in presentation:
+- Daniel Time Series Graph (actual names)
+- Ben ARIMA and SARIMA graphs (actual names)
+- co2_dom.png
+- coal_dom.png
+- natural_gas.png
+- nuclear_dom.png
+- petroleum_dom.png
+- renewable_dom.png
 ### `Powerpoint_Presentation`
 
 ### Group Members:
