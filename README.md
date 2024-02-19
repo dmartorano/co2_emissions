@@ -8,10 +8,10 @@
 - Project_5_EDA_ben.ipynb
 - Project_5_EDA_Dom.ipynb
 ### `Modeling_Folder`
-Project_5_Regression_Modeling_Ben.ipynb
-Project_5_Time_Series_Modeling_Ben.ipynb
-Project_5_Time_Series_Dan.ipynb
-Project_5_Modeling_Dom.ipynb
+- Project_5_Regression_Modeling_Ben.ipynb
+- Project_5_Time_Series_Modeling_Ben.ipynb
+- Project_5_Time_Series_Dan.ipynb
+- Project_5_Modeling_Dom.ipynb
 ### `Visualizations_Folder`
 - Project_5_Visuals.ipynb
 - co2_dom.png
