@@ -49,7 +49,7 @@ Communities across the United States are facing the dangers of climate change an
 
 ### `Visualizations_Folder`
 
-- Project_5_Visuals.ipynb: Visuals from `Project_5_EDA_ben.ipynb` datasets (initial prior to further data collection. Purpose of this file is to gain deeper insights into multiple pollution index metrics as well as energy source trends from States and at a national level from the 21st century only. Viewed natural disaster and anthropologic crisis event and other trends in data emblematic of the positive and negative correlation amongst variables in the study that necessitated multi-variable analysis.
+- Project_5_Visuals.ipynb: Visuals from `Project_5_EDA_ben.ipynb` datasets (initial datasets prior to further data collection). Purpose of this file was to gain deeper insights into multiple pollution index metrics as well as energy source trends from states and at a nationwide level from the 21st century only. Viewed natural disaster and anthropologic crisis event and other trends in data emblematic of the positive and negative correlation amongst variables in the study that necessitated multi-variable analysis.
 
 Following were for use in presentation:
 - Daniel Time Series Graph (actual names)
