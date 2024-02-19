@@ -14,6 +14,10 @@
 - Project_5_Modeling_Dom.ipynb
 ### `Visualizations`
 - Project_5_Visuals.ipynb
+- ARIMA_Powerpoint.png
+- SARIMA_Powerpoint.png
+- pacf_dan.png
+- ts_lin_dan.png
 - co2_dom.png
 - coal_dom.png
 - natural_gas.png
