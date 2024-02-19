@@ -34,7 +34,10 @@ This project focuses on analyzing environmental data with social impact.
 
 ### Environmental Data from the Energy Information Administration and Kaggle scraped from the EPA and World Bank:
 
-[Insert Sources Here]
+https://www.kaggle.com/datasets/sogun3/uspollution
+https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
+https://www.eia.gov/state/seds/seds-data-complete.php
+https://www.eia.gov/electricity/data/state/
 
 ### Problem statement:
 
