@@ -3,16 +3,16 @@
 ## Table of Contents
 
 ### `README.md`
-### `Exploratory_Data_Analysis_Folder`
+### `Exploratory_Data_Analysis`
 - Project_5_New_EDA_ben.ipynb
 - Project_5_EDA_ben.ipynb
 - Project_5_EDA_Dom.ipynb
-### `Modeling_Folder`
+### `Modeling`
 - Project_5_Regression_Modeling_Ben.ipynb
 - Project_5_Time_Series_Modeling_Ben.ipynb
 - Project_5_Time_Series_Dan.ipynb
 - Project_5_Modeling_Dom.ipynb
-### `Visualizations_Folder`
+### `Visualizations`
 - Project_5_Visuals.ipynb
 - co2_dom.png
 - coal_dom.png
