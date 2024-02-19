@@ -5,11 +5,11 @@
 ### `README.md`
 ### `Exploratory_Data_Analysis_Folder`
 - Project_5_New_EDA_ben.ipynb
-- Dom
-- Daniel
+- Project_5_EDA_ben.ipynb
+- Project_5_EDA_Dom.ipynb
 ### `Modeling_Folder`
 Ben 
-Dom
+Project_5_Modeling_Dom - Used clean national average data to generate EDA graphs for all variables and create a multivariate time series model.
 Daniel
 ### `Visualizations_Folder`
 Visualizations
@@ -35,6 +35,8 @@ Communities across the United States are facing the dangers of climate change an
 ### `README.md`
 ### `Exploratory_Data_Analysis_Folder`
 - Project_5_New_EDA_ben.ipynb: Includes data imports, cleaning, munging, and exploratory data analysis (EDA) of \text{CO_{2}} data and energy source data. Energy sources: coal, natural gas, nuclear energy, petroleum and renewable energy. Renewable energy includes solar, wind, hydroelectric, and geothermal. Units for \text{CO_{2}} data are (Per capita emissions in metric tons per person). Units for energy sources are British Thermal Units. Source: https://www.eia.gov/state/seds/seds-change/index.php/
+- Project_5_EDA_ben.ipynb:
+- Project_5_EDA_Dom - Took cleaned state-level data and generated cleaned national average data. Cleaned national average data for all variables used for various time series models throughout group.
 ### `Modeling_Folder`
 - Regression Modeling file: Exploration of various regression models evaluated based on R^{2} score agreement amongst train and test sets and Root Mean Squared Error (RMSE). Best Regression models: Third: Linear Regression with Polynomial features: The train score was 0.9956 while test score was 0.9941 with RMSE values train 1.1213 and test 1.371. Second: K Nearest Neighbors with a train score of 1.0 and test score 0.99476 with RMSE values 0.0 for train and test 1.2920. First: Bagging Tree Regressor with train score 0.9989 and test score 0.9953 with RMSE values train 0.5586 and test 1.2230. 
 
